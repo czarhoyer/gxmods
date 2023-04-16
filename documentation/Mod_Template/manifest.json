@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "FUTUREma",
+    "description": "Just a test of futurama mod by fan",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Czar_Hoyer"
     },
     "icons":
     {
@@ -17,10 +17,7 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/track_1.mp3"
             ],
             "browser_sounds":
             {
@@ -66,7 +63,8 @@
                 ],
                 "TAB_CLOSE":
                 [
-                    "sound/close_tab.mp3"
+                    "sound/close_tab_1.mp3",
+                    "sound/close_tab_2.mp3"
                 ],
                 "TAB_INSERT":
                 [
@@ -91,7 +89,9 @@
                 [
                     "keyboard/letter_1.wav",
                     "keyboard/letter_2.wav",
-                    "keyboard/letter_3.wav"
+                    "keyboard/letter_3.wav",
+                    "keyboard/letter_4.wav",
+                    "keyboard/letter_5.wav"
                 ],
                 "TYPING_SPACE":
                 [
